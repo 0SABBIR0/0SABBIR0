@@ -3,5 +3,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=D085F7&background=0B0B0B00&lines=I+am+a+Front-End+Web+Developer;JavaScript+--%3EReact+JS+--%3ETailwind+CSS)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </p>
